@@ -12,7 +12,7 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": ["game", "react", "vite"],
-  "author": "Your Name",
+  "author": "RM",
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
